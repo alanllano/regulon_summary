@@ -1,4 +1,4 @@
-mport os
+import os
 
 
 def load_interactions(filename):
