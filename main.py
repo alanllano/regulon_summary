@@ -188,3 +188,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+# commandon: python main.py -i interacciones.tsv -o resumen_regulon.tsv
+# python3 main.py -i data/TF-RISet.tsv -o resumen_test.tsv
+# more resumen_test.tsv
